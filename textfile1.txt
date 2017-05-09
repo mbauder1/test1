@@ -1,1 +1,1 @@
-This is my first test file for the second exercise of the class.
+This is my first test file for the second exercise of the class. This is the change made in myclone.
